@@ -55,6 +55,11 @@ This project focuses on analyzing hospital admission data to **reduce unnecessar
 
 - Patients who undergo more laboratory tests tend to have slightly lower readmission rates, possibly due to better diagnosis and closer medical monitoring.
 
+## Deliverables
+- **Excel File with Analysis:** Pivot tables, charts, and calculations  
+- **Insights Summary:** Actionable conclusions for hospital administration  
+- **Recommendations:** Targeted interventions for high-risk patient groups  
+
 
 
 
