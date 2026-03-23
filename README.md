@@ -40,19 +40,12 @@ This project focuses on analyzing hospital admission data to **reduce unnecessar
  
 ## Key Insights
 - Patients aged 70–90 show the highest readmission rate (58.8%), indicating that elderly patients are more likely to return to the hospital after discharge.
-
 - Patients with a higher number of emergency visits have a greater likelihood of readmission, often due to more severe or unstable health conditions.
-
 - Diabetic inpatients experience higher readmission rates than non-diabetic patients, as diabetes can slow the healing and recovery process.
-
 - Patients with frequent outpatient visits tend to have higher readmission rates, which may indicate ongoing or chronic health problems.
-
 - Patients with multiple diagnoses are more likely to be readmitted, suggesting that complex health conditions increase the risk of returning to the hospital.
-
 - Patients taking a higher number of medications generally have longer hospital stays, as they often have more serious or multiple medical conditions.
-
 - Diagnosis code 283 shows high healthcare utilization, since blood-related disorders often require frequent monitoring and emergency care.
-
 - Patients who undergo more laboratory tests tend to have slightly lower readmission rates, possibly due to better diagnosis and closer medical monitoring.
 
 ## Deliverables
