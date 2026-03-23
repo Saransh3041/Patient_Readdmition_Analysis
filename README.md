@@ -60,6 +60,12 @@ This project focuses on analyzing hospital admission data to **reduce unnecessar
 - **Insights Summary:** Actionable conclusions for hospital administration  
 - **Recommendations:** Targeted interventions for high-risk patient groups  
 
+## Autor
+**Saransh Goyal**  
+**Email:** goyalsaransh61@gmail.com  
+**LinkedIn:** [linkedin.com/in/saranshgoyal007](https://www.linkedin.com/in/saranshgoyal007/)  
+**GitHub:** [github.com/Saransh3041](https://github.com/Saransh3041)
+
 
 
 
